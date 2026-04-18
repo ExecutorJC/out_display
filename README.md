@@ -1,2 +1,2 @@
-# out_display
+display
 太空大战外星人小游戏
